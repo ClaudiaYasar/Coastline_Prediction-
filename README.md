@@ -1,4 +1,9 @@
 # Coastline Prediction Using Existing Climate Change Models
+# By Berke Miraç and Koray muradoğlu
+# Intelligent Control Systems  Fall 2022 
+
+![image](https://user-images.githubusercontent.com/132692602/236540556-c9793bb8-508b-4caa-a926-6bcb494d4d87.png)
+
 
 The rise in sea levels is o![picture](https://user-images.githubusercontent.com/132692602/236537712-884cb49a-22db-4070-b1ee-89f0b509c6da.png)
 
