@@ -1,6 +1,6 @@
 # Coastline Prediction Using Existing Climate Change Models
-# By Berke Miraç and Koray Muradoğlu
 # Intelligent Control Systems  Fall 2022 
+# YTU Department of Control and Automation Engineering By Berke Miraç and Koray Muradoğlu
 
 ![picture](https://user-images.githubusercontent.com/132692602/236537712-884cb49a-22db-4070-b1ee-89f0b509c6da.png)
 
